@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/growagardenhub-debug/weas/refs/heads/main/fww"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/growagardenhub-debug/faefae/refs/heads/main/fae"))()
